@@ -1,0 +1,7 @@
+Some links related to this blog:
+
+http://www.itkeyword.com/doc/8208120533821404x248/api-windows-API%20HookCreateProcess
+http://blog.csdn.net/myjisgreat/article/details/53262932
+
+General notes:
+We can definitely use explorer.exe as the target hooking process as the UAC is launched from the explorer UI.
